@@ -1,6 +1,6 @@
-**# 💰 Personal Finance Manager (Advanced Python Project)
+💰 Personal Finance Manager (Advanced Python Project)
 
-## 📌 Project Overview
+📌 Project Overview
 The Personal Finance Manager is a command-line based Python application designed to help users track daily expenses, analyze spending patterns, manage budgets, and generate reports.  
 This project demonstrates strong fundamentals of **Python programming, object-oriented design, file handling, data analysis, and visualization**.
 
@@ -8,7 +8,7 @@ This project was developed as part of Month 1 – Python Programming Mastery und
 
 ---
 
-##🎯 Objectives
+🎯 Objectives
 - Track and manage personal expenses
 - Perform expense analysis and reporting
 - Visualize spending patterns
@@ -18,15 +18,15 @@ This project was developed as part of Month 1 – Python Programming Mastery und
 
 ---
 
-## 🚀 Features
+🚀 Features
 
-### 🔹 Core Features
+🔹 Core Features
 - Add, view, and search expenses
 - CSV-based data persistence
 - Category-wise and monthly summaries
 - Robust input validation and error handling
 
-### 🔹 Advanced Features (Option 3)
+🔹 Advanced Features (Option 3)
 - 📊 Category-wise expense visualization
 - 📈 Monthly expense trend chart
 - 💸 Budget check with warnings
@@ -35,7 +35,7 @@ This project was developed as part of Month 1 – Python Programming Mastery und
 
 ---
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 - Python 3.x
 - CSV module
 - Object-Oriented Programming (OOP)
@@ -44,40 +44,39 @@ This project was developed as part of Month 1 – Python Programming Mastery und
 
 ---
 
-## 📂 Project Structure
+📂 Project Structure
 
-python_personalfinance_tracker/
+python_personalfinance_tracker/<br>
 │
-├── README.md              
-├── requirements.txt
-├── main.py
+├── README.md    <br>          
+├── requirements.txt<br>
+├── main.py<br>
 │
-├── src/
-│   ├── expense.py
-│   ├── file_manager.py
-│   ├── reports.py
-│   ├── visuals.py
-│   └── menu.py
+├── src/<br>
+│   ├── expense.py<br>
+│   ├── file_manager.py<br>
+│   ├── reports.py<br>
+│   ├── visuals.py<br>
+│   └── menu.py<br>
 │
-├── data/
-│   └── expenses.csv
+├── data/<br>
+│   └── expenses.csv<br>
 │
-├── reports/
-│   └── summary_report.txt
+├── reports/<br>
+│   └── summary_report.txt<br>
 │
-├── docs/
-│   └── quality_checklist.md   
+├── docs/<br>
+│   └── quality_checklist.md <br>  
 │
-├── screenshots/
-│   └── (images here)
+├── screenshots/<br>
+│   └── (images here)<br>
 │
-└── .gitignore
+└── .gitignore<br>
 
 
-## ⚙️ Installation & Setup
+⚙️ Installation & Setup
 
 1. Clone the repository
-
 git clone <your-github-repo-url>
 cd python_personalfinance_tracker
 
@@ -93,7 +92,7 @@ python main.py
 
 ---
 
-## 🛠️  Usage Instructions
+🛠️  Usage Instructions
 
 - Select menu options using numbers (1-12)
 - Add expenses with amount, category, date, and description
@@ -105,15 +104,14 @@ python main.py
 
 ---
 
-## 📸 Screenshots
+📸 Screenshots
 
 Screenshots demonstrating application functionality are available in the screenshots/ directory
 ---
 
 ---
-## 📬 Author
-
-Aniket Anand
-B.Tech Computer Science
-Developers Arena Internship Program
+📬 Author
+Aniket Anand<br>
+B.Tech Computer Science<br>
+Developers Arena Internship Program<br>
 ---**
