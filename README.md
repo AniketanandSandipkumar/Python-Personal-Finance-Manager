@@ -52,7 +52,7 @@ python_personalfinance_tracker/<br>
 ├── requirements.txt<br>
 ├── main.py<br>
 │
-├── src/<br>
+├── src/
 │   ├── expense.py<br>
 │   ├── file_manager.py<br>
 │   ├── reports.py<br>
