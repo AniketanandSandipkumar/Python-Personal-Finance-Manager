@@ -110,7 +110,8 @@ Screenshots demonstrating application functionality are available in the screens
 ---
 
 ---
-📬 Author<br>
+
+📬 Author <br>
 Aniket Anand<br>
 B.Tech Computer Science<br>
 Developers Arena Internship Program<br>
