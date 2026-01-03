@@ -50,26 +50,26 @@ python_personalfinance_tracker/<br>
 │
 ├── README.md <br>          
 ├── requirements.txt<br>
-├── main.py  
+├── main.py  <br>
 │
 ├── src/
 │   ├── expense.py<br>
 │   ├── file_manager.py<br>
 │   ├── reports.py<br>
 │   ├── visuals.py<br>
-│   └── menu.py  
+│   └── menu.py  <br>
 │
 ├── data/<br>
-│   └── expenses.csv  
+│   └── expenses.csv  <br>
 │
 ├── reports/<br>
-│   └── summary_report.txt  
+│   └── summary_report.txt  <br>
 │
 ├── docs/<br>
-│   └── quality_checklist.md     
+│   └── quality_checklist.md  <br>
 │
 ├── screenshots/<br>
-│   └── (images here)  
+│   └── (images here)  <br>
 │
 └── .gitignore<br>
 
@@ -110,7 +110,7 @@ Screenshots demonstrating application functionality are available in the screens
 ---
 
 ---
-📬 Author
+📬 Author<br>
 Aniket Anand<br>
 B.Tech Computer Science<br>
 Developers Arena Internship Program<br>
