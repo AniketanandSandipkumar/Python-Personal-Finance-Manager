@@ -106,7 +106,15 @@ python main.py
 
 📸 Screenshots
 
-Screenshots demonstrating application functionality are available in the screenshots/ directory
+### 📸 Application Screenshots
+
+![Main Menu](screenshots/Menu.png)
+![Add Expense](screenshots/Add_Expense.png)
+![Expense Summary](screenshots/Expense_Report_summary.png)
+![Category Chart](screenshots/Category_Wise_Expense_chart.png)
+![Monthly Chart](screenshots/Monthly_Chart.png)
+![Budget Check](screenshots/Budget_Check.png)
+
 ---
 
 ---
