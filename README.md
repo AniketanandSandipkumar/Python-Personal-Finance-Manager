@@ -48,28 +48,28 @@ This project was developed as part of Month 1 – Python Programming Mastery und
 
 python_personalfinance_tracker/<br>
 │
-├── README.md    <br>          
+├── README.md <br>          
 ├── requirements.txt<br>
-├── main.py<br>
+├── main.py  
 │
 ├── src/
 │   ├── expense.py<br>
 │   ├── file_manager.py<br>
 │   ├── reports.py<br>
 │   ├── visuals.py<br>
-│   └── menu.py<br>
+│   └── menu.py  
 │
 ├── data/<br>
-│   └── expenses.csv<br>
+│   └── expenses.csv  
 │
 ├── reports/<br>
-│   └── summary_report.txt<br>
+│   └── summary_report.txt  
 │
 ├── docs/<br>
-│   └── quality_checklist.md <br>  
+│   └── quality_checklist.md     
 │
 ├── screenshots/<br>
-│   └── (images here)<br>
+│   └── (images here)  
 │
 └── .gitignore<br>
 
@@ -114,4 +114,4 @@ Screenshots demonstrating application functionality are available in the screens
 Aniket Anand<br>
 B.Tech Computer Science<br>
 Developers Arena Internship Program<br>
----**
+---
